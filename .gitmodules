@@ -1,0 +1,15 @@
+[submodule "Enigma/Dependencies/spdlog"]
+	path = Enigma/Dependencies/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Enigma/Dependencies/glfw"]
+	path = Enigma/Dependencies/glfw
+	url = https://github.com/glfw/glfw
+[submodule "Enigma/Dependencies/glm"]
+	path = Enigma/Dependencies/glm
+	url = https://github.com/g-truc/glm
+[submodule "Enigma/Dependencies/imgui"]
+	path = Enigma/Dependencies/imgui
+	url = https://github.com/ocornut/imgui/
+[submodule "Enigma/Dependencies/yaml-cpp"]
+	path = Enigma/Dependencies/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp
